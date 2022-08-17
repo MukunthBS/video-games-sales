@@ -17,3 +17,5 @@ information unavailable from raw tabulated data along with
 employing efficient and effective visualization methods as to
 which aspects of the video game market are most profitable.
 
+<hr>
+<i>Submitted in partial fulfillment of the requirements for CSE3020 : Data Visualization</i>
